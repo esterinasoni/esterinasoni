@@ -1,6 +1,7 @@
 # Hi, I’m Dr. Esterina Kananu 
 
 Health Data Science enthusiast with a pharmacy background, focused on predictive modeling, public health analytics, and digital health solutions across Africa. 
+
 Passionate about using data to improve healthcare decisions and patient outcomes across Africa.
 
 ---
@@ -20,8 +21,6 @@ Passionate about using data to improve healthcare decisions and patient outcomes
 
 ## Featured Projects
 - [**H1N1 Vaccine Uptake Prediction**](https://github.com/esterinasoni/H1N1_vaccine_prediction) (Multilabel classification)
-- **Diabetes Risk Modeling**
-- **Fake News Detection** (NLP)
 
 ---
 
