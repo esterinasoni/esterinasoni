@@ -3,7 +3,6 @@
 
 <td width="260">
 
-<img src="https://github.com/esterinasoni.png" width="240" style="border-radius:50%;" />
 
 </td>
 
