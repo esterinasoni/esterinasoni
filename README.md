@@ -1,1 +1,1 @@
-# Dr.-Esterina-Kananu
+# Dr Esterina-Kananu
