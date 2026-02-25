@@ -1,8 +1,9 @@
 <table>
 <tr>
-<td width="220">
 
-<img src="https://github.com/esterinasoni.png" width="210" style="border-radius:50%;" />
+<td width="260">
+
+<img src="https://github.com/esterinasoni.png" width="240" style="border-radius:50%;" />
 
 </td>
 
@@ -33,7 +34,6 @@ Turning healthcare data into actionable impact across Africa.
 </table>
 
 <hr>
-
 
 ##  Core Focus
 - Health data analytics & reporting  
