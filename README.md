@@ -1,13 +1,3 @@
-<table>
-<tr>
-
-<td width="260">
-
-
-</td>
-
-<td>
-
 <h1>Dr. Esterina Kananu</h1>
 
 <b>Health Data Scientist | Digital Health & Public Health Analytics</b><br><br>
