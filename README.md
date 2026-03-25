@@ -46,7 +46,8 @@ Turning healthcare data into actionable impact across Africa.
 
 - **[H1N1 Vaccine Uptake Prediction](https://github.com/esterinasoni/H1N1_vaccine_prediction)**  
   Multilabel classification predicting vaccination behavior using demographic and behavioral health data.
-
+- **[MediCycle](https://github.com/esterinasoni/MediCycle)**
+  An automated medication refill and secure payment platform for chronic patients. Built for the **Enyata x Interswitch Buildathon 2026**, focusing on clinical logic and data driven healthcare infrastructure.
 
 <hr>
 
